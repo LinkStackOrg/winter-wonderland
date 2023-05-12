@@ -65,7 +65,7 @@
   /* Dark/light mode detection (comment this section out and use the one below for a fixed background color) */
       body {
         font-size: 16px;
-        background-image: url('https://raw.githubusercontent.com/JulianPrieber/winter-wonderland/main/background.png');
+        background-image: url('https://raw.githubusercontent.com/LinkStackOrg/winter-wonderland/main/background.png');
         background-size: cover;
         background-repeat: no-repeat;
         font-family: 'Inter', sans-serif;
